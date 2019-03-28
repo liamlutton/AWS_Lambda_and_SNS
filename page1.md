@@ -2,8 +2,7 @@
 
 
 <p>Now go back to <a href="http://developer.amazon.com">developer.amazon.com</a></p>
-
-Once you've signed in, click on "Developer Console" on the top right of the blue bar. Search for "Alexa Skills Kit" on the top gray menu. 
+Once you've signed in, click on "Developer Console" on the top right of the blue bar. Hover over "Alexa" on the top gray menu and select "Alexa Skills Kit."
 
 ### The Developer Console 
 <p>You will be using the developer console to set up the Voice User Interface (VUI)</p>
@@ -11,21 +10,25 @@ Once you've signed in, click on "Developer Console" on the top right of the blue
 <ol> 
 <li>Press the blue "Create Skill" button on the right side of the screen</li>
 
-<li>Enter a skill name and press "Next"</li>
+<li>Enter a skill name</li>
 
-<li>Of the four options, choose "Custom", then press the blue "Create Skill button at the top right"</li>
+<li>Of the options on the bottom of the page, choose "Custom" (should be selected by default), then press the blue "Create Skill" button at the top right</li>
 
-<li>Choose "Invocation name" and type the "wake up" name for the skill. For example, "share love."</li>
+<li>Choose "Start from scratch."</li>
+
+<li>Choose "Invocation name" and type the wake up name (used to command program) for the skill. For example, "share love."</li>
 
 <li>From the menu on the left side of your screen, press "Add" next to the "Intents" option</li>
  
-<li>Enter a name for your intent in camel case followed by the word "Intent" i.e. ShareLoveIntent</li>
+<li>Enter a name for your intent in CamelCase followed by the word "Intent" i.e. ShareLoveIntent</li>
 
 <li>Come up with utterances, or phrases a user might say to Alexa to invoke your skill. In this case, for example a 
 sample utterance might be "Ask ShareLove to share love with {ContactName}". Be sure to include the name of your skill
 in the utterance along with a target. In the provided example, the target is {ContactName} which is actually a slot type 
 discussed more in the next step. Just make sure the target is inlcuded inside curly braces {}. Make sure all of your
 utterances use the same target name.</li>
+
+<li>Press "Add" on the target and press "+" at the end of the line.</li>
 
 <li>After adding utterances, go to the menu on the left again and press "Add" next to the "Slot Types". option</li>
 
@@ -36,7 +39,7 @@ Mom, Dad, Jacob, Ashley, etc. Do not add all recipients in one line. After addin
 right side of the bar to continue adding individual values.</li>
 
 <li>Finally, using the menu on the left hand side, navigate back to your custom Intent. Below your utterances, there will
-be a table of "Intent Slots". You should see your Slot in this table. Now you must connect the Slot Type to the utterances
+be a table of "Intent Slots" (might have to scroll down). Now you must connect the Slot Type to the utterances
 by using the dropdown menu under "SLOT TYPE" and selecting your custom Slot name that shows up.</li>
 
 <li>When you are satisfied, click "Save model" and then click "Build model" to finalize your VUI.</li>
