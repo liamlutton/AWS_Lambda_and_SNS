@@ -1,6 +1,6 @@
 # Lambda and SNS
 <p>
-Please download/copy paste the file called template.js. This is the boilerplate code for this skill's logic.
+Please download/copy paste the file called <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/template.js">template.js</a> template.js. This is the boilerplate code for this skill's logic.
 <br>We can delete all the default code from the Fact skill template in index.js and paste template.js there. No need to rename the files, don't worry.
 </p>
 
