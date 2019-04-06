@@ -1,6 +1,6 @@
 # Account setup
-<p>We will need to make accounts on <a href="http://developer.amazon.com">developer.amazon.com</a> and
-  <a href="http://www.aws.amazon.com">aws.amazon.com</a>.
+<p>We will need to make accounts on <a href="http://developer.amazon.com" target="_blank">developer.amazon.com</a> and
+  <a href="http://www.aws.amazon.com" target="_blank">aws.amazon.com</a>.
 </p>
 
 ### developer.amazon.com
@@ -10,7 +10,7 @@ This account enables access to the Alexa Skills Kit, Amazon's web interface for 
 </p>
 
 <p>
-Go to <a href="http://developer.amazon.com">developer.amazon.com</a> and click "Sign in" in the top right corner.
+Go to <a href="http://developer.amazon.com" target="_blank">developer.amazon.com</a> and click "Sign in" in the top right corner.
 Press "Create your Amazon Developer account" at the bottom and you will be sent to the registration portal. Once you are finished, come back for the AWS account.
 </p>
 
