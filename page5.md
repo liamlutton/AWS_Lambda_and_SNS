@@ -23,4 +23,4 @@ These are all the Lambdas you've created. Go to the Lambda you made for this tut
 Choose any of the log streams and they will display a trace through your code, reading out the messages contained in the console.log()s that are in your Lambda code. There should be a log that displays the phone number that a message was sent to.
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page6.md">End</a>
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page6.md">End</a>
