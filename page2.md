@@ -24,7 +24,7 @@ Welcome! You are now in the Lambda management console. This is where all of your
 <li>Scroll down if needed and click on the "alexa-skill-kit-sdk-factskill" blueprint. This will provide fantastic boilerplate code
 for us to build off of.</li>
 <li>I like to name my functions as [SkillName] + "Intent," as this helps me keep track of the relationships between my Lambdas and my skills. If you have a better idea in mind, you can name your Lambdas however you wish!</li>
-<li>If this is your first Lambda, select "Creat a custom role" in the Role menu. In the screen that opens up, simply click Allow. You just allowed the Lambda service the permissions it needs to run your code, to summarize the IAM significance.</li>
+<li>If this is your first Lambda, select "Create a custom role" in the Role menu. In the screen that opens up, simply click Allow. You just allowed the Lambda service the permissions it needs to run your code, to summarize the IAM significance.</li>
 <li>Now, we will select "lambda-basic-execution" in the Existing Role section, should that not have already been selected. This is the role we just created.</li>
 <li>Scroll down and give the Create Function button a nice click!</li>
 <li>Congratulations! You just made a Lambda function! Yayyyyy</li>
