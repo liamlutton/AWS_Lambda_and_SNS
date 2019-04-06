@@ -36,8 +36,7 @@ To activate the Lambda function via Alexa, we have to connect the Alexa Skills K
 </p>
 <p>From the Add Triggers column on the lefthand side, look for "Alexa Skills Kit." 
 <br>If you can't find it,
- look at the top right of your screen next to "Support." To the left of Support is the name of the AWS region where we are hosting
-  our code...it should say, "N. Virginia," as this is the region that supports Lambda. If it is a different region, simply click the region name and select N. Virginia. 
+ you should make sure you're in the correct region (N. Virginia). If you're not, you'll have to restart from the first step of creating the Lambda :( 
  <br>You should be able to see Alexa Skills Kit in the triggers section now.
 </p>
 
