@@ -28,4 +28,4 @@ You are now in the IAM console. IAM can be thought of as the bookkeeper of which
   Let's go back to Lambda and set up the full SNS script 😍
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page4.md">Let's write code</a>
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page4.md">Let's write code</a>
