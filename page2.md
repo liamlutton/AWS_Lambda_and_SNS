@@ -56,5 +56,5 @@ In the top right corner of your Lambda is a value that reads as <b>ARN - arn:aws
 We just connected this skill's voice interface (frontend) to the logic processing code (backend) with the ARN value. The reason this feature exists is to permit developers to create their own endpoints to process the Alexa requests in a manner desirable to them. 
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page3.md">Let's connect this Lambda to AWS SNS</a>
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page3.md">Let's connect this Lambda to AWS SNS</a>
 
