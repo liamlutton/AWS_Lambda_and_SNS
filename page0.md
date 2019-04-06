@@ -29,4 +29,4 @@ Great work! AWS -- Amazon Web Services -- offers many software solutions for com
   Once you're finished setting up your accounts, we can begin building our skill 😈
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page1.md">I'm done</a>!
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page1.md">I'm done</a>!
