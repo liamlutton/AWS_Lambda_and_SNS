@@ -71,4 +71,4 @@ If you are having other persistent issues, try Google. Also, the <a href="https:
  search the slots this intent uses (.slots), and finally grabs the values uttered by the user (.SLOTNAME.value). The variable recipient stores the value we found.
  </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page5.md">Cloudwatch</a>
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page5.md">Cloudwatch</a>
