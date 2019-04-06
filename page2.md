@@ -4,12 +4,12 @@ We will go back to <a href="http://aws.amazon.com">aws.amazon.com</a>
 </p>
 
 <p>
-Before creating a new lambda function, be sure to switch your region to "N. Virginia," which is a region that supports Lambda. In order to do this, look at the top right of your screen next to "Support." To the left of Support is the name of the AWS region where we are hosting our code...it should say, "N. Virginia," as this is the region that supports Lambda. If it is a different region, simply click the region name and select "N. Virginia."
+Once you've signed in, click on "Services" at the top of the screen. Search for "Lambda." It should be the choice with the description, "Run Code without Thinking about Servers."
+<br>Please click that option.
 </p>
 
 <p>
-Once you've signed in, click on "Services" at the top of the screen. Search for "Lambda." It should be the choice with the description, "Run Code without Thinking about Servers."
-<br>Please click that option.
+Before creating a new lambda function, be sure to switch your region to "N. Virginia," which is a region that supports Lambda. In order to do this, look at the top right of your screen next to "Support." To the left of Support is the name of the AWS region where we are hosting our code...it should say, "N. Virginia," as this is the region that supports Lambda. If it is a different region, simply click the region name and select "N. Virginia."
 </p>
 
 ### The Lambda management console
