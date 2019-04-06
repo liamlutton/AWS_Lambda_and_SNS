@@ -6,7 +6,7 @@ Please download/copy paste the file called <a href="https://github.com/liamlutto
 </p>
 
 <p>
-There are several TODO:s (CTRL+F | CMD+F TODO) in the file. These are tasks that you will complete in a way most likely unique to you.
+There are several TODO:s (CTRL+F | CMD+F TODO) in the pasted code. These are tasks that you will complete in a way most likely unique to you.
 <br>The code can be pasted and edited directly in the Lambda code viewer. Save frequently (CTRL+S | CMD+S) and click the orange Save button in the top right corner as well.
 </p>
 
