@@ -34,10 +34,13 @@ for us to build off of.</li>
 <p>
 To activate the Lambda function via Alexa, we have to connect the Alexa Skills Kit trigger. 
 </p>
-<p>From the Add Triggers column on the lefthand side, look for "Alexa Skills Kit." After clicking "Alexa Skills Kit," you'll have to enter the key to your skill that you are creating at the field that appears at the bottom of the page. The skill key can be found on the Alexa Development Console webpage by clicking "View Skill ID" on the disambiguation page listing all your skills.
-<br>If you can't find the "Alexa Skills Kit" button,
+<p>From the Add Triggers column on the lefthand side, look for "Alexa Skills Kit." If you can't find the "Alexa Skills Kit" button,
  you should make sure you're in the correct region (N. Virginia). If you're not, you'll have to restart from the first step of creating the Lambda :( 
- <br>You should be able to see Alexa Skills Kit in the triggers section now.
+ After changing to the correct region, you should be able to see Alexa Skills Kit in the triggers section now.
+
+After clicking "Alexa Skills Kit," you'll have to enter the key to your skill that you are creating at the field that appears under "Configure Triggers" section. The skill key can be found on the Alexa Development Console webpage by clicking "View Skill ID" on the disambiguation page listing all your skills.
+Copy and paste the skill key into the Skill ID field in the Configure Triggers section and click "Add."
+Finally, click "Save" at the top-right of the screen (should be a familiar step by now :)).
 </p>
 
 <p>
