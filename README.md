@@ -2,6 +2,7 @@
 <p>Welcome! This tutorial was designed for the attendees of the University of Illinois' <a href="https://sail.cs.illinois.edu/">CS@ILLINOIS SAIL</a>, an event for high school students to explore various student-led classes at the University.
   <br>However, this tutorial is meant for anyone to use!
 </p>
+<p>This presentation was a slight adaptation of <a href="https://github.com/mrvivacious/">Vivek Bhookya</a>'s 2018 version.</p>
 
 ### Who?
 
@@ -38,12 +39,12 @@ Anytime you activate the skill [while connected to the internet and the correspo
 ### Why?
 
 <p>
-I built <a href="https://play.google.com/store/apps/details?id=com.mrvivacious.android.fortuneballll">an app that generates a positive/good vibes message that I can share</a> but I didn't like how long the process took. I recently started building with Alexa and I thought it would be a much faster solution to my problem while being an opportunity to increase my Alexa skillset.
+Vivek Bhookya built <a href="https://play.google.com/store/apps/details?id=com.mrvivacious.android.fortuneballll">an app that generates a positive/good vibes message that I can share</a> but I didn't like how long the process took. I recently started building with Alexa and I thought it would be a much faster solution to my problem while being an opportunity to increase my Alexa skillset.
 For you, this can help provide insight into connecting AWS SNS with AWS Lambda and the Alexa Voice Service.
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page0.md">How</a>?
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page0.md">How</a>?
 
 <p>
-* Sources for the images used can be found in <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/SAIL2018.pdf">the lecture slides</a>.
+* Sources for the images used can be found in <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/SAIL2018.pdf">the lecture slides</a>.
 </p>
